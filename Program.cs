@@ -29,23 +29,7 @@ namespace Calculadorgit
                 Console.WriteLine(numero1 + numero2);
             }
 
-            if (operacao == "b" || operacao == "-")
-            {
-                Console.WriteLine(numero1 - numero2);
-            }
-
-            if (operacao == "c" || operacao == "*")
-            {
-                Console.WriteLine(numero1*numero2);
-            }
-
-            if (operacao == "d" || operacao == "/")
-            {
-                Console.WriteLine(numero1 / numero2);
-            }
-
-
-
+           
             Console.WriteLine("\nDigite qualquer tecla para sair!");
             Console.ReadKey();
 
