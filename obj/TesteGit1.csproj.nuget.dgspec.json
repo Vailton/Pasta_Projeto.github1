@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilu's\\TesteGitvs\\governador.adm-gmail.com\\TesteGit1.csproj": {}
+    "C:\\Users\\Guilu's\\TesteGitvs\\ProjetoGitFirst\\TesteGit1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilu's\\TesteGitvs\\governador.adm-gmail.com\\TesteGit1.csproj": {
+    "C:\\Users\\Guilu's\\TesteGitvs\\ProjetoGitFirst\\TesteGit1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilu's\\TesteGitvs\\governador.adm-gmail.com\\TesteGit1.csproj",
+        "projectUniqueName": "C:\\Users\\Guilu's\\TesteGitvs\\ProjetoGitFirst\\TesteGit1.csproj",
         "projectName": "TesteGit1",
-        "projectPath": "C:\\Users\\Guilu's\\TesteGitvs\\governador.adm-gmail.com\\TesteGit1.csproj",
+        "projectPath": "C:\\Users\\Guilu's\\TesteGitvs\\ProjetoGitFirst\\TesteGit1.csproj",
         "packagesPath": "C:\\Users\\Guilu´s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilu's\\TesteGitvs\\governador.adm-gmail.com\\obj\\",
+        "outputPath": "C:\\Users\\Guilu's\\TesteGitvs\\ProjetoGitFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilu´s\\AppData\\Roaming\\NuGet\\NuGet.Config",

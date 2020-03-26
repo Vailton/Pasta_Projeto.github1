@@ -11,3 +11,16 @@ C:\Users\Guilu's\TesteGitvs\governador.adm-gmail.com\obj\Debug\netcoreapp3.1\Tes
 C:\Users\Guilu's\TesteGitvs\governador.adm-gmail.com\obj\Debug\netcoreapp3.1\TesteGit1.dll
 C:\Users\Guilu's\TesteGitvs\governador.adm-gmail.com\obj\Debug\netcoreapp3.1\TesteGit1.pdb
 C:\Users\Guilu's\TesteGitvs\governador.adm-gmail.com\obj\Debug\netcoreapp3.1\TesteGit1.genruntimeconfig.cache
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.exe
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.deps.json
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.runtimeconfig.json
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.runtimeconfig.dev.json
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.dll
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\bin\Debug\netcoreapp3.1\TesteGit1.pdb
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.csprojAssemblyReference.cache
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.csproj.CoreCompileInputs.cache
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.AssemblyInfoInputs.cache
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.AssemblyInfo.cs
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.dll
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.pdb
+C:\Users\Guilu's\TesteGitvs\ProjetoGitFirst\obj\Debug\netcoreapp3.1\TesteGit1.genruntimeconfig.cache
