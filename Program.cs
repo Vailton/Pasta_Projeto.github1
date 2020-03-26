@@ -36,7 +36,7 @@ namespace Calculadorgit
 
             if (operacao == "c" || operacao == "*")
             {
-                Console.WriteLine(numero1 * numero2);
+                Console.WriteLine(numero1*numero2);
             }
 
             if (operacao == "d" || operacao == "/")
