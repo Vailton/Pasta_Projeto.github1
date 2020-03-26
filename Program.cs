@@ -24,9 +24,9 @@ namespace Calculadorgit
 
             operacao = Console.ReadLine();
 
-            if (operacao == "c" || operacao == "*")
+            if (operacao == "d" || operacao == "/")
             {
-                Console.WriteLine(numero1 *numero2);
+                Console.WriteLine(numero1 / numero2);
             }
 
 
